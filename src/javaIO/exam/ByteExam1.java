@@ -1,0 +1,4 @@
+package javaIO.exam;
+
+public class ByteExam1 {
+}
